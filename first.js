@@ -288,6 +288,14 @@ console.log("cond3 && cond4 = ", cond3 && cond4);*/
 //        console.log(i)
 //      }
 // }
+// Practise Q2:
+let gameNum = 35;
+let userNum = prompt("Guess the game number: ");
+
+while (userNum != gameNum) {
+   userNum = prompt("Your enter wrong number. Guess again: ");
+}
+console.log("Congratulation, You enterd  the right number");
 // sum function
 // function sum(a, b) {
 //    return a + b;
