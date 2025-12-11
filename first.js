@@ -288,3 +288,13 @@ console.log("cond3 && cond4 = ", cond3 && cond4);*/
 //        console.log(i)
 //      }
 // }
+// sum function
+// function sum(a, b) {
+//    return a + b;
+// } 
+// let val = sum(3, 4);
+// console.log(val)
+//multiplication function
+// function mul(a, b) {
+//    return a * b;
+// }
