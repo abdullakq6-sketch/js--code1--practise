@@ -282,3 +282,9 @@ console.log("cond3 && cond4 = ", cond3 && cond4);*/
 //        console.log(i)
 //      }
 // }
+// // 2nd method (odd number code js: for loop)
+// for (let i = 0; i <= 100; i++) {
+//       if(i%2 !== 0) { //odd number
+//        console.log(i)
+//      }
+// }
