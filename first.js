@@ -289,13 +289,13 @@ console.log("cond3 && cond4 = ", cond3 && cond4);*/
 //      }
 // }
 // Practise Q2:
-let gameNum = 35;
-let userNum = prompt("Guess the game number: ");
+// let gameNum = 55;
+// let userNum = prompt("Guess the game number: ");
 
-while (userNum != gameNum) {
-   userNum = prompt("Your enter wrong number. Guess again: ");
-}
-console.log("Congratulation, You enterd  the right number");
+// while (userNum != gameNum) {
+//    userNum = prompt("Your enter wrong number. Guess again: ");
+// }
+// console.log("Congratulation, You enterd  the right number");
 // sum function
 // function sum(a, b) {
 //    return a + b;
@@ -306,3 +306,4 @@ console.log("Congratulation, You enterd  the right number");
 // function mul(a, b) {
 //    return a * b;
 // }
+
