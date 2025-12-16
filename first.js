@@ -306,4 +306,40 @@ console.log("cond3 && cond4 = ", cond3 && cond4);*/
 // function mul(a, b) {
 //    return a * b;
 // }
+// 1)
+// let arr = [1,2,3,4,5];
+
+// arr.forEach((val) => {
+// console.log(val);
+// });
+// arr.forEach(function printVal(val) {// value at each index
+// console.log(val)
+// })
+// 2)
+//  let arr = ["karachi","lahore","islamabad"];
+
+//  arr.forEach((val) => {
+// console.log(val.toUpperCase());
+//  });
+// 3
+//  let arr = ["karachi","lahore","islamabad"];
+
+//  arr.forEach((val, idx, arr) => {
+// console.log(val.toUpperCase(), idx, arr);
+//  });
+// HIGHER ORDER FUMCTION:
+// HIGHER ORDER METHOD:
+// 1)HOF:
+// for parameter
+// for return
+// 2) HOM :
+// Q1
+// let nums = [2,4,16,24,54];
+
+// let calcSquare = (num) => {
+//    console.log(num * num);
+// };
+
+// nums .forEach(calcSquare);
+
 
